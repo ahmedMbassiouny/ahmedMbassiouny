@@ -1,6 +1,6 @@
 ## <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> Welcome , I'm [Ahmed Bassiouny](https://github.com/ahmedMbassiouny) <img src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="30">
 
-<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" ></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" ></picture>
 
 <br>
 
@@ -111,7 +111,8 @@
 
 
 <p align=''>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img 
+src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <img src="https://media.giphy.com/media/Z022x1nbAsKE2aAhnE/giphy.gif" width="100%" height ="120">
 
