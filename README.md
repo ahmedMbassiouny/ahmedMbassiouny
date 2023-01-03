@@ -134,7 +134,7 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
          alt="Bassiouny" height="30"/></a>
       <a href="mailto:ahmedmbassiouny1@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="BAssiouny" height="30"/></a>
+         alt="Bassiouny" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://wa.me/+01066413929" target="blank"><img align="center"
