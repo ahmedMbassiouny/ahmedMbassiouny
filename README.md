@@ -112,10 +112,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<p align=''>
-<img 
-src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
 <img src="https://media.giphy.com/media/Z022x1nbAsKE2aAhnE/giphy.gif" width="100%" height ="120">
 
 <details align="center">
@@ -147,4 +143,11 @@ src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" hei
     </p>
   </samp>
 </div>
+
+
+<p align=''>
+<img 
+src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 </details>
+
