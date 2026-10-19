@@ -1,153 +1,143 @@
-## <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> Welcome , I'm [Ahmed Bassiouny](https://github.com/ahmedMbassiouny) <img src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="30">
-
-
-  <a href="https://github.com/ahmedMbassiouny"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Ahmed+Bassiouny..&hearts;++;Computer+Science+Student,;Self-taught+Front-End+Developer,;Currently+learning+Web+Development+by+Self"></a>
-
-<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" ></picture>
-
-<br>
-
-
-
-- My Personal website [link](https://) Soon! 
-- This is [my resume](https://) Soon! 
-- Currently learning Web Development by Self
-- A passionate Self-taught Front-end developer
-- A Software Engineer student in the Faculty of Computers and Artificial Intelligence, Helwan University
-
-
-<br><br>
-
-
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SKILLS</b>
-
+# Ahmed Bassiouny
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer+%40+Dayra;PHP+%7C+Laravel+%7C+Microservices;Building+Reliable+Backend+Systems" alt="Typing SVG" />
+</p>
 
-- **Languages**:
+<p align="center">
+  <a href="https://github.com/ahmedMbassiouny">
+    <img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub" />
+  </a>
+  <a href="https://github.com/AhmedBassiounyDayra">
+    <img src="https://img.shields.io/badge/Work_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" />
+  </a>
+  <a href="https://dayra.co/">
+    <img src="https://img.shields.io/badge/Dayra-Company-36BCF7?style=for-the-badge" alt="Dayra" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-bassiouni-3267b1229">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  
-    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> -->
-  
-<br>   
-    
-- **Front-End Development**:
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  
-  
-   
-<!--     
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> -->
-  
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">  -->
-  
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> -->
+## About Me
 
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-   -->
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> -->
+I'm a **Backend Engineer at [Dayra](https://dayra.co/)**, building backend services and API-driven applications for financial systems.
+
+My work focuses on designing maintainable Laravel applications, implementing business-critical workflows, and integrating services to deliver reliable and secure systems.
+
+- **Backend Engineering:** PHP, Laravel, RESTful APIs, and microservices.
+- **Database Engineering:** MySQL, SQL queries, transactions, and data consistency.
+- **Performance & Background Processing:** Redis, caching, queues, scheduled jobs, and Laravel Horizon.
+- **Financial Systems:** Loan lifecycle management, interest and late-fee calculations, accruals, VAT, and repayment workflows.
+- **Accounting Integrations:** Odoo integration, accounting events, journal entries, and financial reconciliation.
+- **Security & Reliability:** Authentication, API security, rate limiting, debugging, and application monitoring.
+- **Software Architecture:** Service-to-service communication, business logic design, and maintainable code.
+- **Developer Productivity:** Git, GitHub, Laravel Telescope, Cursor, and AI-assisted development tools.
+
+I'm passionate about solving complex backend problems, understanding systems end to end, and continuously improving my skills in software architecture, system design, and cloud infrastructure.
 
 
-<br>
+## Tech Stack
 
-- **Cloud Hosting**:
+### Backend Development
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="Backend technologies" />
+</p>
 
-- **Softwares and Tools**:
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-5C6BC0?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Authentication-00897B?style=for-the-badge" alt="Authentication" />
+</p>
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-  
+### Frontend Development
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="Frontend technologies" />
+</p>
 
-- **Extras**:
-  
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-  
+### Databases & Infrastructure
 
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,aws,docker,git,github&theme=dark" alt="Databases and infrastructure" />
+</p>
+
+- **Databases:** MySQL, relational database design, SQL queries, and transactions.
+- **Caching & Queues:** Redis, Laravel queues, scheduled jobs, and Horizon.
+- **Cloud:** AWS fundamentals and cloud-based application infrastructure.
+- **Integrations:** External APIs, Odoo accounting integrations, and service-to-service communication.
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux&theme=dark" alt="Developer tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/Cursor-AI_Editor-141414?style=for-the-badge&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Laravel-Telescope-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Telescope" />
+  <img src="https://img.shields.io/badge/Laravel-Horizon-405263?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Horizon" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+</p>
+
+### Design & Creative Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+## Professional Focus
+
+- Building maintainable Laravel applications and backend services.
+- Designing RESTful APIs and service integrations.
+- Implementing asynchronous processing with queues and background jobs.
+- Working with financial business rules, accounting events, and transactional data.
+- Improving application reliability, observability, and API security.
+- Using AI-assisted development tools to improve engineering productivity.
+
+## GitHub Contributions
+
+### Work Account
+
+<p align="center">
+  <a href="https://github.com/AhmedBassiounyDayra">
+    <img src="https://ghchart.xqsit94.in/dark:36BCF7/AhmedBassiounyDayra" alt="Ahmed Bassiouny work account contributions" width="100%" />
+  </a>
+</p>
+
+### Personal Account
+
+<p align="center">
+  <a href="https://github.com/ahmedMbassiouny">
+    <img src="https://ghchart.xqsit94.in/dark:36BCF7/ahmedMbassiouny" alt="Ahmed Bassiouny personal account contributions" width="100%" />
+  </a>
+</p>
 
 
-<img src="https://media.giphy.com/media/Z022x1nbAsKE2aAhnE/giphy.gif" width="100%" height ="120">
+## Education
 
-<details align="center">
-  <summary>
-    <h3 align="center" >Connect with me  <img src="https://media.giphy.com/media/cOLvtXLNWPnD8jrtS3/giphy.gif" width="55" height="55" style="margin-bottom: -15px;">      </h3>
-</summary>
-<div>
-  <samp>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/ahmed-bassiouni-3267b1229" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Bassiouny" height="30"/></a>
-      <a href="https://www.facebook.com/profile.php?id=100072674426984&mibextid=ZbWKwL" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="Bassiouny" height="30"/></a>
-      <a href="mailto:ahmedmbassiouny1@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Bassiouny" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://wa.me/+01066413929" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="Bassiouny" height="30"/></a>
-      <a href="https://twitter.com/A_Bassiouny5?t=ty3_4GJSEUZSIgIolTjMlw&s=09" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Bassiouny" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
+🎓 **Helwan University — Class of 2025**
+
+Bachelor's Degree | Faculty of Computers and Information
+
+- **Graduation Year:** 2025
+- **Focus:** Software Development, Computer Science, and Backend Engineering
 
 
-<p align=''>
-<img 
-src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="25%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+## Let's Connect
 
-</details>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-bassiouni-3267b1229">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:ahmedmbassiouny1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
 
+<p align="center">
+  <i>Building reliable systems, one commit at a time.</i>
+</p>
